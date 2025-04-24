@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shv14&label=Profile%20views&color=0e75b6&style=flat" alt="shv14" /> </p>
 
-- 🔭 I’m currently working on **Django Projects**
+- 🔭 Currently working on **Multiple Technologies**
 
-- 🌱 I’m currently learning **AI-ML**
+- 🌱 Currently learning **AI-ML**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+- 👯 Looking to collaborate on **AI Projects**
 
 - 👨‍💻 All of my projects are available at [https://shv14.github.io/myportfolio.github.io/](https://shv14.github.io/myportfolio.github.io/)
 
-- 💬 Ask me about **Django, MERN**
+- 💬 Ask me about **Full Stack Dev and Machine Learning**
 
 - 📫 How to reach me **shivansh14202@gmail.com**
 
